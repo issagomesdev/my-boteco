@@ -37,7 +37,6 @@ public class TableManager : MonoBehaviour
             
             GameObject customerClone = Instantiate(customerManager.customerPrefab, transform.position, Quaternion.identity);
             customerClone.transform.SetParent(this.transform);
-            
             Customer newCustomer = customerManager.CreateCustomer(sprite: null, table: table);
             table.AddCustomer(newCustomer);
 
