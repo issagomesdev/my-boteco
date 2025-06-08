@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://media.byissa.tech/img/preview-mb.png" alt="Game Preview" width="600"/>
+  <img src="https://media.byissa.tech/my-boteco/preview.png" alt="Game Preview" width="600"/>
 </p>
 
 **My Boteco** is a real-time bar management simulator where players must quickly serve customers to maximize satisfaction. Focused on speed and strategy, players prepare drinks and food, earning experience points (XP) and improving the bar's reputation. Every decision impacts success, making efficient and fast service essential.
